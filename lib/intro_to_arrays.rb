@@ -34,6 +34,5 @@ def last_element_with_array_methods(south_east_asia)
 end
 
 def length_of_array(south_east_asia)
-  length = @south_east_asia[]
-  return last_country
+  return @south_east_asia.length
 end
