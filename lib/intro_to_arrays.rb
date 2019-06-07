@@ -33,6 +33,6 @@ def last_element_with_array_methods(south_east_asia)
   return last_country
 end
 
-def length_of_array(south_east_asia)
+def length(south_east_asia)
   return @south_east_asia.length
 end
