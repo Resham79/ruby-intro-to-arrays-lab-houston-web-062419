@@ -33,8 +33,8 @@ def last_element_with_array_methods(south_east_asia)
   return last_country
 end
 
-def length(programming_languages)
+def length_of_array(programming_languages)
   @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
-  length_of_array = @programming_languages.length
-  return length_of_array
+  length = @programming_languages.length
+  return length
 end
